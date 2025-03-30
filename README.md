@@ -1,6 +1,7 @@
 # RyouTV
 
-![Banner Anime](https://drive.google.com/file/d/15w6Rq_dLLCchDKblTqHG9Fb9YYYCC2td/view?usp=drive_link)
+![Banner Anime](https://drive.usercontent.google.com/download?id=15w6Rq_dLLCchDKblTqHG9Fb9YYYCC2td&export=download&authuser=0)
+
 RyouTV adalah aplikasi Android inovatif yang dirancang khusus untuk para pecinta anime! Dengan aplikasi ini, kamu dapat menonton siaran langsung TV anime dari berbagai saluran channel favoritmu. Meskipun untuk saat ini hanya siaran langsung yang tersedia, RyouTV sudah memberikan pengalaman nonton yang seru dan mudah diakses.
 
 ---
